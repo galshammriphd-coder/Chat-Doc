@@ -1,0 +1,5 @@
+This is a test document for the RAG Chatbot.
+The capital of France is Paris.
+The capital of Germany is Berlin.
+The capital of Italy is Rome.
+Water boils at 100 degrees Celsius.

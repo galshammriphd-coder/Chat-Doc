@@ -1,0 +1,19 @@
+# Large files
+gcloud.zip
+gcloud_sdk/
+gcloud/
+
+# Dependencies
+node_modules/
+**/node_modules/
+backend/venv/
+
+# Build outputs
+dist/
+**/dist/
+__pycache__/
+**/__pycache__/
+
+# Environment variables
+.env
+**/.env

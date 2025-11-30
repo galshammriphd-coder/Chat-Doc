@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+python-multipart
+langchain
+langchain-community
+faiss-cpu
+python-dotenv
+pydantic
+langchain-openai
+langchain-google-genai
+langchain-anthropic
+langchain-groq
