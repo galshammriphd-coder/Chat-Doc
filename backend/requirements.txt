@@ -12,3 +12,4 @@ langchain-openai
 langchain-google-genai
 langchain-anthropic
 langchain-groq
+pypdf
